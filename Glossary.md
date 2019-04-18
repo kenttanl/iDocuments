@@ -46,3 +46,24 @@
 - Row：行
 - Column Familes：列族
 - Cells：单元格
+
+# Storm
+
+- MasterNode：控制节点
+- WorkerNode：工作节点
+- Nimbus：用于提交任务、分配集群任务、集群监控等 <光轮，雨云>
+- Supervisor：负责接收 Nimbus 分配的任务，并管理属于自己的 Worker 进程 <监督人，管理人；监察员>
+- Topology：Storm 对任务的抽象，像是一个计算节点所组成的图 <拓扑学> 
+- Worker：运行具体任务处理组件逻辑的进程
+- Stream：一个没有边界的 tuple 序列 <流>
+- Spout：流的源头 <n. 喷口；水龙卷；水落管；水柱>
+- Blot：处理输入的 Stream，并产生新的输出 Stream 的处理节点 <n. 污点，污渍；墨水渍>
+- Tuple：流中基本的数据处理单元 <元组>
+- ShuffleGrouping：随机分组
+- FieldsGrouping：字段分组
+- GlobalGrouping：全局分组
+- AllGrouping：全部分组
+- DirectGrouping：直接分组
+- NoneGrouping：无分组
+- LocalOrShuffleGrouping：本地或随机分组
+- PartialKeyGrouping：部分关键字分组
