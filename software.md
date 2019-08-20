@@ -1,4 +1,4 @@
-## Devart Codecompare
+## Devart Code Compare
 
 - Free
 - 超过70,000个用户在解决合并冲突和部署源代码更改时主动使用的代码对比工具
