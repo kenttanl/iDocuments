@@ -25,3 +25,13 @@
 - [Download](https://mobaxterm.mobatek.net/download-home-edition.html)
 
 ![Mobaxterm](https://mobaxterm.mobatek.net/img/slider/Sftp-browser.png)
+
+
+
+## Everything
+
+- Free
+- 基于名称快速定位文件和文件夹
+- [Download](https://www.voidtools.com/zh-cn/)
+
+![Everything](https://www.voidtools.com/zh-cn/support/everything/Everything.Search.Window.png)
