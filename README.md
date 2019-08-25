@@ -18,3 +18,8 @@
         - 中文：[http://abloz.com/hbase/book.html](http://abloz.com/hbase/book.html)
 - Yarn：
     - 官方文档（英文）：[https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)
+	
+## Others
+
+- 开发工具与软件：[Software.md](./software.md)
+- 专业名词收集：[Glossary.md](./Glossary.md)
