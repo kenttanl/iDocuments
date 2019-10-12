@@ -1,6 +1,6 @@
 # Jar package
 
-收集优秀的第三方 jar 包。
+收集优秀的第三方 jar 包。国内 Maven 仓库推荐使用 aliyun 仓库，以提高下载 jar 包速度，配置方法参见：[Maven：配置 aliyun 仓库](https://github.com/kenttanl/iDocuments/issues/1)。
 
 ## Utils
 
