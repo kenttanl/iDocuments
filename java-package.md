@@ -4,7 +4,7 @@
 
 ## Utils
 
-### Guava
+### guava
 
 - Google 的开源工具类
 - [Github 地址](https://github.com/google/guava)
@@ -19,7 +19,7 @@
 - [官方文档（英文）](http://commons.apache.org/proper/commons-lang/index.html)
 - groupId.artifactId: org.apache.commons.commons-lang3
 
-### Jasypt
+### jasypt
 
 - 便捷的加密库，可对配置文件中的数据库密码加密
 - [官网（英文）](http://www.jasypt.org)
@@ -27,7 +27,7 @@
 - [Maven for not spring-boot](http://www.jasypt.org/maven.html)
 - groupId.artifactId: org.jasypt.jasypt
 
-### Liquibase
+### liquibase
 
 - 一个用于跟踪、管理和应用数据库变化的开源的数据库重构工具
 - [官网（英文）](http://www.liquibase.org)
