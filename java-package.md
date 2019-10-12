@@ -2,7 +2,7 @@
 
 收集优秀的第三方 jar 包。
 
-## Items
+## Utils
 
 ### Guava
 
@@ -32,5 +32,17 @@
 - 一个用于跟踪、管理和应用数据库变化的开源的数据库重构工具
 - [官网（英文）](http://www.liquibase.org)
 
+## Client
+
+### Kafka
+
+- kafka-clients: 
+  - 原生的 Kafka client
+  - [官方文档（中文）](http://kafka.apachecn.org/documentation.html#api)
+  - org.apache.kafka.kafka-clients
+- spring-kafka: 
+  - Spring 封装后的 client
+  - [官方文档（英文）](https://spring.io/projects/spring-kafka)
+  - org.springframework.kafka
 
 

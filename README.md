@@ -7,7 +7,7 @@
 
 # 开源软件
 
-## 1. Hadoop 
+## Hadoop 
 
 ### 论文
 
@@ -19,29 +19,49 @@
 
 - [官方文档，架构和设计（英文）](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
 - [官方文档，架构和设计（中文）](https://hadoop.apache.org/docs/r1.0.4/cn/hdfs_design.html)
+- [Github 地址](https://github.com/apache/hadoop)
 
 ### HBase
 
 - [官方文档（英文）](https://hbase.apache.org/book.html#datamodel)
 - [官方文档（中文）](http://abloz.com/hbase/book.html)
+- [Github 地址](https://github.com/apache/hbase)
 
 ### Yarn：
 
 - [官方文档（英文）](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)
+- [Github 地址](https://github.com/apache/hadoop)
 
 ### Hive：
 
 - [官网文档（英文）](http://hive.apache.org)
+- [Github 地址](https://github.com/apache/hive)
 
 
-
-## 2. Kafka
+## Kafka
 
 - [官方文档（英文）](http://kafka.apache.org)
 - [官方文档（中文）](http://kafka.apachecn.org)
 
 
+## ELK
 
-## 3. Storm
+### Elasticsearch
+
+- [官网（中文）](http://www.elasticsearch.cn)
+
+### Kibana
+
+### Logstash
+
+
+## Flink
+
+- [官网（英文）](https://flink.apache.org)
+- [官网（中文）](https://flink.apache.org/zh/)
+- [Github 地址](https://github.com/apache/flink)
+
+## Storm
 
 - [官方文档（英文）](http://storm.apache.org)
+- [Github 地址](https://github.com/apache/storm)
