@@ -1,6 +1,6 @@
 # 目录
 
-- [开源软件](#1-hadoop)
+- [开源软件](#开源软件)
 - [开发工具与软件](./software.md)
 - [专业名词收集](./Glossary.md)
 - [Jar 包收集](./java-package.md)
