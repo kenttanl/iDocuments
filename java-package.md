@@ -15,7 +15,7 @@
 
 ### commons-lang3
 
-- 标准Java库未能提供足够的方法来操作其核心类。Apache Commons Lang提供了这些额外的方法。
+- 标准 Java 库未能提供足够的方法来操作其核心类。Apache Commons Lang 提供了这些额外的方法。
 - [官方文档（英文）](http://commons.apache.org/proper/commons-lang/index.html)
 - groupId.artifactId: org.apache.commons.commons-lang3
 
