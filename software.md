@@ -39,7 +39,7 @@
 ## PilotEdit
 
 - Free for PilotEdit Lite
-- 1) 可编辑与查看大于 400GB（400亿行）的文件；2) 其它功能见官网，因为需要收费；
+- 1\) 可编辑与查看大于 400GB（400亿行）的文件；2\) 其它功能见官网，因为需要收费；
 - [Home & Download](http://www.pilotedit.com/index.html)
 
 ![PilotEdit](http://www.pilotedit.com/images/OpenInQuickMode.PNG)
