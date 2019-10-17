@@ -48,12 +48,20 @@
 
 ### Elasticsearch
 
-- [官网（中文）](http://www.elasticsearch.cn)
+- [官网（中文）](https://www.elastic.co/cn/products/elasticsearch)
+- [文档（英文，基于最新版本, 推荐）](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+- [文档（中文，基于 2.x 版本）](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
 
 ### Kibana
 
+- [官网（中文）](https://www.elastic.co/cn/products/kibana/)
+- [文档（中文）](https://www.elastic.co/guide/cn/kibana/current/index.html)
+
 ### Logstash
 
+- [官网（中文）](https://www.elastic.co/cn/products/logstash)
+- [文档（英文，基于最新版本）](https://www.elastic.co/guide/en/logstash/current/index.html)
+- [文档（中文，基于版本不详，来源不详）](https://doc.yonyoucloud.com/doc/logstash-best-practice-cn/index.html)
 
 ## Flink
 
