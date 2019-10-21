@@ -1,3 +1,7 @@
+# Software
+
+收集能有效提供效率或方便的工具与软件。以免费为主，欢迎补充。
+
 ## Devart Code Compare
 
 - Free

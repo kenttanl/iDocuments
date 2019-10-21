@@ -1,4 +1,8 @@
-# ETCD
+# Glossary
+
+收集优秀的开源系统中，所使用到的关键名词。为系统设计、属性命名提供参考。欢迎补充。
+
+## ETCD
 
 - Raft：etcd 所采用的保证分布式系统强一致性的算法。
 - Node：一个 Raft 状态机实例。
@@ -15,7 +19,7 @@
 - Term：某个节点成为 Leader 到下一次竞选时间，称为一个 Term。
 - Index：数据项编号。Raft 中通过 Term 和 Index 来定位数据。
 
-# HDFS
+## HDFS
 
 - NameNode：负责管理文件系统的 namespace 以及客户端对文件的访问
 - DataNode：用于管理它所在节点上的存储
@@ -30,7 +34,7 @@
 - Acknowledgement：确认
 - DistributedFileSystem：分布式文件系统
 
-# HBase
+## HBase
 
 - Master：主节点，负责监视集群中的所有 RegionServer 实例等
 - RegionServer：负责服务和管理 regions 的节点
@@ -47,7 +51,7 @@
 - Column Familes：列族
 - Cells：单元格
 
-# Storm
+## Storm
 
 - MasterNode：控制节点
 - WorkerNode：工作节点
