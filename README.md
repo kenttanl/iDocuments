@@ -78,6 +78,8 @@
 - 一个框架和分布式处理引擎，用于在无边界和有边界数据流上进行有状态的计算
 - [官网（英文）](https://flink.apache.org)
 - [官网（中文）](https://flink.apache.org/zh/)
+- [文档（英文 v1.9）](https://ci.apache.org/projects/flink/flink-docs-release-1.9/)
+- [文档（中文 v1.9）][https://ci.apache.org/projects/flink/flink-docs-release-1.9/zh/]
 - [Github 地址](https://github.com/apache/flink)
 
 ## Storm
