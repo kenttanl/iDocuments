@@ -65,6 +65,7 @@
 - 一个开源的分析与可视化平台，用于和 Elasticsearch 一起使用
 - [官网（中文）](https://www.elastic.co/cn/products/kibana/)
 - [文档（中文）](https://www.elastic.co/guide/cn/kibana/current/index.html)
+- [Github 地址](https://github.com/apache/kafka)
 
 ### Logstash
 
