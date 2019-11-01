@@ -17,21 +17,19 @@
 :orange_book: [BigTable 论文中文版](http://blog.bizcloudsoft.com/wp-content/uploads/Google-Bigtable%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
 :orange_book: [MapReduce 论文中文版](http://blog.bizcloudsoft.com/wp-content/uploads/Google-MapReduce%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
 
-### HDFS 
+### HDFS <sub> [![Star](https://img.shields.io/github/stars/apache/hadoop?style=social&label=Star)](https://github.com/apache/hadoop) </sub>
 
 - [ ] 适合运行在通用硬件上的分布式文件系统
 - [ ] [官方文档，架构和设计（英文）](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
 - [ ] [官方文档，架构和设计（中文）](https://hadoop.apache.org/docs/r1.0.4/cn/hdfs_design.html)
 - [ ] [Github 地址](https://github.com/apache/hadoop)
-- [ ] [![Star](https://img.shields.io/github/stars/apache/hadoop?style=social&label=Star)](https://github.com/apache/hadoop)
 
-### HBase
+### HBase <sub> [![Star](https://img.shields.io/github/stars/apache/hbase?style=social&label=Star)](https://github.com/apache/hbase) </sub>
 
 - [ ] 一个分布式的、面向列的开源数据库
 - [ ] [官方文档（英文）](https://hbase.apache.org/book.html#datamodel)
 - [ ] [官方文档（中文）](http://abloz.com/hbase/book.html)
 - [ ] [Github 地址](https://github.com/apache/hbase)
-- [ ] [![Star](https://img.shields.io/github/stars/apache/hbase?style=social&label=Star)](https://github.com/apache/hbase)
 
 ### Yarn
 
