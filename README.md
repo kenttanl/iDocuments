@@ -17,33 +17,31 @@
 :orange_book: [BigTable 论文中文版](http://blog.bizcloudsoft.com/wp-content/uploads/Google-Bigtable%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
 :orange_book: [MapReduce 论文中文版](http://blog.bizcloudsoft.com/wp-content/uploads/Google-MapReduce%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
 
-### HDFS <sub> [![Star](https://img.shields.io/github/stars/apache/hadoop?style=social&label=Star)](https://github.com/apache/hadoop) </sub>
+### HDFS 
 
 - [ ] 适合运行在通用硬件上的分布式文件系统
 - [ ] [官方文档，架构和设计（英文）](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
 - [ ] [官方文档，架构和设计（中文）](https://hadoop.apache.org/docs/r1.0.4/cn/hdfs_design.html)
-- [ ] [Github 地址](https://github.com/apache/hadoop)
+- [ ] [Github 地址](https://github.com/apache/hadoop) <sub> [![Star](https://img.shields.io/github/stars/apache/hadoop?style=social&label=Star)](https://github.com/apache/hadoop) </sub>
 
-### HBase <sub> [![Star](https://img.shields.io/github/stars/apache/hbase?style=social&label=Star)](https://github.com/apache/hbase) </sub>
+### HBase 
 
 - [ ] 一个分布式的、面向列的开源数据库
 - [ ] [官方文档（英文）](https://hbase.apache.org/book.html#datamodel)
 - [ ] [官方文档（中文）](http://abloz.com/hbase/book.html)
-- [ ] [Github 地址](https://github.com/apache/hbase)
+- [ ] [Github 地址](https://github.com/apache/hbase) <sub> [![Star](https://img.shields.io/github/stars/apache/hbase?style=social&label=Star)](https://github.com/apache/hbase) </sub>
 
 ### Yarn
 
 - [ ] Hadoop 分布式处理框架中的资源管理和作业调度技术
 - [ ] [官方文档（英文）](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)
-- [ ] [Github 地址](https://github.com/apache/hadoop)
-- [ ] [![Star](https://img.shields.io/github/stars/apache/hadoop?style=social&label=Star)](https://github.com/apache/hadoop)
+- [ ] [Github 地址](https://github.com/apache/hadoop) <sub> [![Star](https://img.shields.io/github/stars/apache/hadoop?style=social&label=Star)](https://github.com/apache/hadoop) </sub>
 
 ### Hive
 
 - [ ] 基于 hadoop 的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供类SQL查询功能
 - [ ] [官网文档（英文）](http://hive.apache.org)
-- [ ] [Github 地址](https://github.com/apache/hive)
-- [ ] [![Star](https://img.shields.io/github/stars/apache/hive?style=social&label=Star)](https://github.com/apache/hive)
+- [ ] [Github 地址](https://github.com/apache/hive) <sub> [![Star](https://img.shields.io/github/stars/apache/hive?style=social&label=Star)](https://github.com/apache/hive) </sub>
 
 
 ## Kafka 
@@ -51,8 +49,7 @@
 - [ ] 一个分布式流处理平台
 - [ ] [官方文档（英文）](http://kafka.apache.org)
 - [ ] [官方文档（中文）](http://kafka.apachecn.org)
-- [ ] [Github 地址](https://github.com/apache/kafka)
-- [ ] [![Star](https://img.shields.io/github/stars/apache/kafka?style=social&label=Star)](https://github.com/apache/kafka)
+- [ ] [Github 地址](https://github.com/apache/kafka) <sub> [![Star](https://img.shields.io/github/stars/apache/kafka?style=social&label=Star)](https://github.com/apache/kafka) </sub>
 
 
 ## ELK
@@ -84,15 +81,13 @@
 - [ ] [官网（中文）](https://flink.apache.org/zh/)
 - [ ] [官方文档（英文 v1.9）](https://ci.apache.org/projects/flink/flink-docs-release-1.9/)
 - [ ] [官方文档（中文 v1.9）](https://ci.apache.org/projects/flink/flink-docs-release-1.9/zh/)
-- [ ] [Github 地址](https://github.com/apache/flink)
-- [ ] [![Star](https://img.shields.io/github/stars/apache/flink?style=social&label=Star)](https://github.com/apache/flink)
+- [ ] [Github 地址](https://github.com/apache/flink) <sub> [![Star](https://img.shields.io/github/stars/apache/flink?style=social&label=Star)](https://github.com/apache/flink) </sub>
 
 ## Storm
 
 - [ ] Twitter 开源的分布式实时大数据处理框架
 - [ ] [官方文档（英文）](http://storm.apache.org)
-- [ ] [Github 地址 ![Star](https://img.shields.io/github/stars/apache/storm?style=social&label=Star)](https://github.com/apache/storm)
-- [ ] [Github 地址](https://github.com/apache/storm)
+- [ ] [Github 地址](https://github.com/apache/storm) <sub> ![Star](https://img.shields.io/github/stars/apache/storm?style=social&label=Star) </sub>
 
 ## ETCD
 
@@ -100,8 +95,7 @@
 - [ ] [官网（英文）](https://etcd.io)
 - [ ] [官方文档（英文 v3.4.0）](https://etcd.io/docs/v3.4.0/)
 - [ ] [翻译文档（中文）](https://doczhcn.gitbook.io/etcd/)
-- [ ] [Github 地址](https://github.com/etcd-io/etcd)
-- [ ] [![Star](https://img.shields.io/github/stars/etcd-io/etcd?style=social&label=Star)](https://github.com/etcd-io/etcd)
+- [ ] [Github 地址](https://github.com/etcd-io/etcd) <sub> [![Star](https://img.shields.io/github/stars/etcd-io/etcd?style=social&label=Star)](https://github.com/etcd-io/etcd) </sub>
 
 ## Zookeeper
 
@@ -109,8 +103,7 @@
 - [ ] [官网（英文）](https://zookeeper.apache.org)
 - [ ] [官方文档（英文 v3.5.6）](https://zookeeper.apache.org/doc/r3.5.6/)
 - [ ] [翻译文档（中文 from w3cschool）](https://www.w3cschool.cn/zookeeper/zookeeper_overview.html)
-- [ ] [Github 地址](https://github.com/apache/zookeeper)
-- [ ] [![Star](https://img.shields.io/github/stars/apache/zookeeper?style=social&label=Star)](https://github.com/apache/zookeeper)
+- [ ] [Github 地址](https://github.com/apache/zookeeper) <sub> [![Star](https://img.shields.io/github/stars/apache/zookeeper?style=social&label=Star)](https://github.com/apache/zookeeper) </sub>
 
 ## Redis
 
@@ -119,5 +112,4 @@
 - [ ] [官网（中文）](http://www.redis.cn)
 - [ ] [官方文档（英文）](https://redis.io/documentation)
 - [ ] [官方文档（中文）](http://www.redis.cn/documentation.html)
-- [ ] [Github 地址](https://github.com/antirez/redis)
-- [ ] [![Star](https://img.shields.io/github/stars/antirez/redis?style=social&label=Star)](https://github.com/antirez/redis)
+- [ ] [Github 地址](https://github.com/antirez/redis) <sub> [![Star](https://img.shields.io/github/stars/antirez/redis?style=social&label=Star)](https://github.com/antirez/redis) </sub> 
