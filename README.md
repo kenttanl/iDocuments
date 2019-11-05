@@ -124,3 +124,18 @@
 - [ ] [官方手册（英文）](https://docs.mongodb.com/manual/)
 - [ ] [官方手册（中文）](https://www.mongodb.org.cn/manual/)
 - [ ] [Github 地址](https://github.com/mongodb/mongo) <sub> [![Star](https://img.shields.io/github/stars/mongodb/mongo?style=social&label=Star)](https://github.com/mongodb/mongo) </sub> 
+
+## Prometheus
+
+- [ ] 一个开源的监控报警系统和时序列数据库（TSDB）
+- [ ] [官网（英文）](https://prometheus.io/)
+- [ ] [官方文档（英文）](https://prometheus.io/docs/introduction/overview/)
+- [ ] [翻译文档（中文）](https://ryanyang.gitbook.io/prometheus/)
+- [ ] [Github 地址](https://github.com/prometheus/prometheus) <sub> [![Star](https://img.shields.io/github/stars/prometheus/prometheus?style=social&label=Star)](https://github.com/prometheus/prometheus) </sub> 
+
+## Grafana
+
+- [ ] 一个开源的度量分析和可视化工具，可以通过将采集的数据查询然后可视化的展示，并及时通知
+- [ ] [官网（英文）](https://grafana.com/)
+- [ ] [官方文档（英文）](https://grafana.com/docs/)
+- [ ] [Github 地址](https://github.com/grafana/grafana) <sub> [![Star](https://img.shields.io/github/stars/grafana/grafana?style=social&label=Star)](https://github.com/prometheus/prometheus) </sub> 
