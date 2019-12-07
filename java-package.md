@@ -11,13 +11,13 @@
 - [官方教程（英文）](https://github.com/google/guava/wiki)
 - [官方教程（中文）](https://wizardforcel.gitbooks.io/guava-tutorial/content/1.html)
 - [Maven or Gradle](https://github.com/google/guava/wiki/UseGuavaInYourBuild)
-- groupId.artifactId: com.google.guava
+- com.google.guava
 
 ### commons-lang3
 
 - 标准 Java 库未能提供足够的方法来操作其核心类。Apache Commons Lang 提供了这些额外的方法。
 - [官方文档（英文）](http://commons.apache.org/proper/commons-lang/index.html)
-- groupId.artifactId: org.apache.commons.commons-lang3
+- org.apache.commons.commons-lang3
 
 ### jasypt
 
@@ -25,18 +25,21 @@
 - [官网（英文）](http://www.jasypt.org)
 - [Github 地址：jasypt-spring-boot](https://github.com/ulisesbocchio/jasypt-spring-boot)
 - [Maven for not spring-boot](http://www.jasypt.org/maven.html)
-- groupId.artifactId: com.zaxxer.HikariCP
+- org.jasypt.jasypt
 
 ### liquibase
 
 - 一个用于跟踪、管理和应用数据库变化的开源的数据库重构工具
 - [官网（英文）](http://www.liquibase.org)
+- org.liquibase.liquibase-core
+- org.liquibase.liquibase-maven-plugin
+- org.liquibase.ext.liquibase-hibernate5
 
 ### HikariCP
 
 - 一个可靠的、高性能的 JDBC 连接池
 - [Github 地址](https://github.com/brettwooldridge/HikariCP)
-- groupId.artifactId: org.jasypt.jasypt
+- com.zaxxer.HikariCP
 
 ## Client
 
