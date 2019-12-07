@@ -25,12 +25,18 @@
 - [官网（英文）](http://www.jasypt.org)
 - [Github 地址：jasypt-spring-boot](https://github.com/ulisesbocchio/jasypt-spring-boot)
 - [Maven for not spring-boot](http://www.jasypt.org/maven.html)
-- groupId.artifactId: org.jasypt.jasypt
+- groupId.artifactId: com.zaxxer.HikariCP
 
 ### liquibase
 
 - 一个用于跟踪、管理和应用数据库变化的开源的数据库重构工具
 - [官网（英文）](http://www.liquibase.org)
+
+### HikariCP
+
+- 一个可靠的、高性能的 JDBC 连接池
+- [Github 地址](https://github.com/brettwooldridge/HikariCP)
+- groupId.artifactId: org.jasypt.jasypt
 
 ## Client
 
