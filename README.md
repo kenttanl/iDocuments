@@ -44,13 +44,43 @@
 - [ ] [Github 地址](https://github.com/apache/hive) <sub> [![Star](https://img.shields.io/github/stars/apache/hive?style=social&label=Star)](https://github.com/apache/hive) </sub>
 
 
-## Kafka 
+## 消息队列服务
+
+### Kafka 
 
 - [ ] 一个分布式流处理平台
 - [ ] [官方文档（英文）](http://kafka.apache.org)
 - [ ] [官方文档（中文）](http://kafka.apachecn.org)
 - [ ] [Github 地址](https://github.com/apache/kafka) <sub> [![Star](https://img.shields.io/github/stars/apache/kafka?style=social&label=Star)](https://github.com/apache/kafka) </sub>
 
+### ActiveMQ 
+
+- [ ] 多协议、基于Java的消息传递服务器
+- [ ] [官网（英文）](http://activemq.apache.org)
+- [ ] [官方文档（英文）](http://activemq.apache.org/getting-started.html)
+- [ ] [Github 地址](https://github.com/apache/activemq) <sub> [![Star](https://img.shields.io/github/stars/apache/activemq?style=social&label=Star)](https://github.com/apache/activemq) </sub>
+
+### RocketMQ 
+
+- [ ] 阿里巴巴在2012年开源的分布式消息中间件
+- [ ] [官网（英文）](http://rocketmq.apache.org)
+- [ ] [官方文档（英文）](http://rocketmq.apache.org/docs/quick-start/)
+- [ ] [Github 地址](https://github.com/apache/rocketmq/) <sub> [![Star](https://img.shields.io/github/stars/apache/rocketmq?style=social&label=Star)](https://github.com/apache/rocketmq/) </sub>
+
+### RabbitMQ 
+
+- [ ] 可以为你的应用提供一个通用的消息发送和接收平台，并且保证消息在传输过程中的安全
+- [ ] [官网（英文）](https://www.rabbitmq.com)
+- [ ] [官方文档（英文）](https://www.rabbitmq.com/documentation.html)
+- [ ] [翻译文档（中文）](http://rabbitmq.mr-ping.com)
+- [ ] [Github 地址](https://github.com/rabbitmq)
+
+### ZeroMQ 
+
+- [ ] An open-source universal messaging library
+- [ ] [官网（英文）](https://zeromq.org)
+- [ ] [官方文档（英文）](https://zeromq.org/get-started/)
+- [ ] [Github 地址](https://github.com/zeromq)
 
 ## ELK
 
