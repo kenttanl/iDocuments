@@ -47,3 +47,12 @@
 - [Home & Download](http://www.pilotedit.com/index.html)
 
 ![PilotEdit](http://www.pilotedit.com/images/OpenInQuickMode.PNG)
+
+## KeePassXC
+
+- Free
+- 安全地存储您的密码，并将其自动输入到您的日常网站和应用程序中；
+- [Home & Download](https://keepassxc.org/)
+
+![KeePassXC](https://keepassxc.org/images/screenshots/windows/screen_003.png)
+
