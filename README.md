@@ -51,6 +51,7 @@
 - [ ] 一个分布式流处理平台
 - [ ] [官方文档（英文）](http://kafka.apache.org)
 - [ ] [官方文档（中文）](http://kafka.apachecn.org)
+- [ ] [Confluence（英文）](https://cwiki.apache.org/confluence/display/KAFKA/Index)
 - [ ] [Github 地址](https://github.com/apache/kafka) <sub> [![Star](https://img.shields.io/github/stars/apache/kafka?style=social&label=Star)](https://github.com/apache/kafka) </sub>
 
 ### ActiveMQ 
