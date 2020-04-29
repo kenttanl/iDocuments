@@ -169,4 +169,13 @@
 - [ ] 一个开源的度量分析和可视化工具，可以通过将采集的数据查询然后可视化的展示，并及时通知
 - [ ] [官网（英文）](https://grafana.com/)
 - [ ] [官方文档（英文）](https://grafana.com/docs/)
-- [ ] [Github 地址](https://github.com/grafana/grafana) <sub> [![Star](https://img.shields.io/github/stars/grafana/grafana?style=social&label=Star)](https://github.com/prometheus/prometheus) </sub> 
+- [ ] [Github 地址](https://github.com/grafana/grafana) <sub> [![Star](https://img.shields.io/github/stars/grafana/grafana?style=social&label=Star)](https://github.com/grafana/grafana) </sub> 
+
+## Nginx
+
+- [ ] 一个免费的，开源的高性能HTTP服务器和反向代理，以及IMAP / POP3代理服务器
+- [ ] [官网（英文）](https://www.nginx.com/)
+- [ ] [中文网站](https://www.nginx.cn/)
+- [ ] [官方文档（英文）](https://www.nginx.com/resources/wiki/)
+- [ ] [翻译文档（中文）](https://www.nginx.cn/doc/index.html)
+- [ ] [Github 地址](https://github.com/nginx/nginx) <sub> [![Star](https://img.shields.io/github/stars/nginx/nginx?style=social&label=Star)](https://github.com/nginx/nginx) </sub> 
