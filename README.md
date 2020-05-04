@@ -127,6 +127,7 @@
 - [ ] [官方文档（英文 v3.4.0）](https://etcd.io/docs/v3.4.0/)
 - [ ] [翻译文档（中文）](https://doczhcn.gitbook.io/etcd/)
 - [ ] [Github 地址](https://github.com/etcd-io/etcd) <sub> [![Star](https://img.shields.io/github/stars/etcd-io/etcd?style=social&label=Star)](https://github.com/etcd-io/etcd) </sub>
+- [ ] [ETCD 原理演示动画](http://thesecretlivesofdata.com/raft/)
 
 ## Zookeeper
 
