@@ -37,23 +37,23 @@ SELECT request_session_id AS spid
 ```sql
 SELECT spid
     , blocked
-	, DB_NAME(sp.dbid) AS DBName
-	, program_name
-	, waitresource
-	, lastwaittype
-	, sp.loginame
-	, sp.hostname
-	, a.[Text] AS [TextData]
-	, SUBSTRING(A.TEXT, sp.stmt_start / 2, 
-	    (CASE WHEN sp.stmt_end = -1 
-		      THEN DATALENGTH(A.TEXT) 
-		      ELSE sp.stmt_end END - sp.stmt_start) / 2) AS [current_cmd]
+    , DB_NAME(sp.dbid) AS DBName
+    , program_name
+    , waitresource
+    , lastwaittype
+    , sp.loginame
+    , sp.hostname
+    , a.[Text] AS [TextData]
+    , SUBSTRING(A.TEXT, sp.stmt_start / 2, 
+        (CASE WHEN sp.stmt_end = -1 
+              THEN DATALENGTH(A.TEXT) 
+              ELSE sp.stmt_end END - sp.stmt_start) / 2) AS [current_cmd]
   FROM sys.sysprocesses sp
-	OUTER APPLY sys.dm_exec_sql_text(sp.sql_handle) A
+    OUTER APPLY sys.dm_exec_sql_text(sp.sql_handle) A
   WHERE spid IN (
-		SELECT blocked
-		FROM sys.sysprocesses
-		WHERE blocked > 0
+        SELECT blocked
+        FROM sys.sysprocesses
+        WHERE blocked > 0
 	)
 	OR blocked != 0
   ORDER BY blocked DESC, spid ASC, DB_NAME(sp.dbid) ASC, a.[text]
