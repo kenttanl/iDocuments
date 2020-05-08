@@ -51,10 +51,9 @@ SELECT spid
   FROM sys.sysprocesses sp
     OUTER APPLY sys.dm_exec_sql_text(sp.sql_handle) A
   WHERE spid IN (
-        SELECT blocked
-        FROM sys.sysprocesses
-        WHERE blocked > 0
-	)
-	OR blocked != 0
+          SELECT blocked
+            FROM sys.sysprocesses
+           WHERE blocked > 0)
+        OR blocked != 0
   ORDER BY blocked DESC, spid ASC, DB_NAME(sp.dbid) ASC, a.[text]
   ```sql
