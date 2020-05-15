@@ -2,6 +2,24 @@
 
 收集能有效提供效率或方便的工具与软件。以免费为主，欢迎补充。
 
+## Drawio-desktop
+
+- Free
+- 基于 Electron 的 diagrams.net 桌面应用程序
+- [Home](https://github.com/jgraph/drawio-desktop)
+- [Download](https://github.com/jgraph/drawio-desktop/releases)
+
+![drawio-desktop](https://github.com/jgraph/drawio-desktop/raw/master/screenshot.png)
+
+## JADX
+
+- Free
+- 支持命令行和图形界面的 Java 反编译工具
+- [Home](https://github.com/skylot/jadx)
+- [Download](https://github.com/skylot/jadx#download)
+
+![JADX](https://camo.githubusercontent.com/2b504e792e3ddb1d95094b44e01ab21e101b6f56/68747470733a2f2f692e696d6775722e636f6d2f6839313749425a2e706e67)
+
 ## Devart Code Compare
 
 - Free
