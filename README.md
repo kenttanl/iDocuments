@@ -16,7 +16,7 @@
 | <img height="60" src="./imgs/RabbitMQ-logo.svg" alt="RabbitMQ"/> | <span style="color: red; font-size: 24px; font-weight: 600">ZeroMQ<span> | <img height="60" src="./imgs/Elasticsearch-logo.png" alt="Elasticsearch"/> |
 | <img height="60" src="./imgs/Kibana-logo.png" alt="Kibana"/> | <img height="60" src="./imgs/Logstash-logo.png" alt="Logstash"/> | <img height="60" src="./imgs/flink-logo.svg" alt="Flink"/> | 
 | <img height="60" src="./imgs/storm-logo.png" alt="Storm"/> | <img height="60" src="./imgs/etcd-logo.png"/> | <img height="60" src="./imgs/Zookeeper-logo.png" alt="Zookeeper"/> |
-| <img height="60" src="./imgs/Redis-logo.png" alt="Redis"/> | <img height="60" src="./imgs/MongoDB-logo.png" alt="MongoDB"/> | <img height="60" src="./imgs/Prometheus-logo.png" alt="Prometheus"/> |
+| <img height="60" src="./imgs/redis-logo.png" alt="Redis"/> | <img height="60" src="./imgs/MongoDB-logo.png" alt="MongoDB"/> | <img height="60" src="./imgs/Prometheus-logo.png" alt="Prometheus"/> |
 | <img height="60" src="./imgs/grafana-logo.svg" alt="Grafana"/> | <img height="60" src="./imgs/Nginx-logo.png" alt="Nginx"/> | |
 
 
