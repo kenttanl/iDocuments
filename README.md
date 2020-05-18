@@ -9,7 +9,7 @@
 
 收集开发过程中，常用到的基础系统服务。它们不仅在系统的架构中承担了重要的角色，也是每个开发者都应该深入学习的优秀典范。
 
-[<img height="50" src="./imgs/hadoop-logo.png" alt="Hadoop"/>](#hadoop) [<img height="50" src="./imgs/hdfs-logo.png" alt="HDFS"/>](#hdfs) [<img height="50" src="./imgs/hbase-logo.png" alt="HBase"/>](#hbase) [<img height="50" src="./imgs/hive-logo.png"/>](#hive) [<img height="50" src="./imgs/kafka-logo.png" alt="Kafka"/>](#kafka) [<img height="50" src="./imgs/activemq-logo.png" alt="ActiveMQ"/>](#activemq) [<img height="50" src="./imgs/rabbitmq-logo.svg" alt="RabbitMQ"/>](#rabbitmq) [<img height="50" src="./imgs/zeromq-logo.svg" alt="ZeroMQ"/>](#rabbitmq) [<img height="50" src="./imgs/elasticsearch-logo.png" alt="Elasticsearch"/>](#elasticsearch) [<img height="50" src="./imgs/kibana-logo.png" alt="Kibana"/>](#kibana) [<img height="50" src="./imgs/logstash-logo.png" alt="Logstash"/>](#logstash) [<img height="50" src="./imgs/flink-logo.svg" alt="Flink"/>](#flink) [<img height="50" src="./imgs/storm-logo.png" alt="Storm"/>](#storm) [<img height="50" src="./imgs/etcd-logo.png"/>](#etcd) [<img height="50" src="./imgs/zookeeper-logo.png" alt="Zookeeper"/>](#zookeeper) [<img height="50" src="./imgs/redis-logo.png" alt="Redis"/>](#redis) [<img height="50" src="./imgs/mongodb-logo.png" alt="Mongodb"/>](#mongodb) [<img height="50" src="./imgs/prometheus-logo.png" alt="Prometheus"/>](#prometheus) [<img height="50" src="./imgs/grafana-logo.svg" alt="Grafana"/>](#grafana) [<img height="50" src="./imgs/nginx-logo.png" alt="Nginx"/>](#nginx)
+[<img height="50" src="./imgs/hadoop-logo.png" alt="Hadoop" title="Hadoop" />](#hadoop) [<img height="50" src="./imgs/hdfs-logo.png" alt="HDFS" title="HDFS" />](#hdfs) [<img height="50" src="./imgs/hbase-logo.png" alt="HBase" title="HBase" />](#hbase) [<img height="50" src="./imgs/hive-logo.png" alt="Hive" title="Hive" />](#hive) [<img height="50" src="./imgs/spark-logo.png" alt="Spark" title="Spark" />](#spark) [<img height="50" src="./imgs/kafka-logo.png" alt="Kafka" title="Kafka" />](#kafka) [<img height="50" src="./imgs/activemq-logo.png" alt="ActiveMQ" title="ActiveMQ" />](#activemq) [<img height="50" src="./imgs/rabbitmq-logo.svg" alt="RabbitMQ" title="RabbitMQ" />](#rabbitmq) [<img height="50" src="./imgs/zeromq-logo.svg" alt="ZeroMQ" title="ZeroMQ" />](#rabbitmq) [<img height="50" src="./imgs/elasticsearch-logo.png" alt="Elasticsearch" title="Elasticsearch" />](#elasticsearch) [<img height="50" src="./imgs/kibana-logo.png" alt="Kibana" title="Kibana" />](#kibana) [<img height="50" src="./imgs/logstash-logo.png" alt="Logstash" title="Logstash" />](#logstash) [<img height="50" src="./imgs/flink-logo.svg" alt="Flink" title="Flink" />](#flink) [<img height="50" src="./imgs/storm-logo.png" alt="Storm" title="Storm" />](#storm) [<img height="50" src="./imgs/etcd-logo.png" alt="ETCD" title="ETCD" />](#etcd) [<img height="50" src="./imgs/zookeeper-logo.png" alt="Zookeeper" title="Zookeeper" />](#zookeeper) [<img height="50" src="./imgs/redis-logo.png" alt="Redis" title="Redis" />](#redis) [<img height="50" src="./imgs/mongodb-logo.png" alt="Mongodb" title="Mongodb" />](#mongodb) [<img height="50" src="./imgs/prometheus-logo.png" alt="Prometheus" title="Prometheus" />](#prometheus) [<img height="50" src="./imgs/grafana-logo.svg" alt="Grafana" title="Grafana" />](#grafana) [<img height="50" src="./imgs/nginx-logo.png" alt="Nginx" title="Nginx" />](#nginx)
 
 ## Hadoop 
 
@@ -45,6 +45,13 @@
 - [ ] [官网文档（英文）](http://hive.apache.org)
 - [ ] [Github 地址](https://github.com/apache/hive) <sub> [![Star](https://img.shields.io/github/stars/apache/hive?style=social&label=Star)](https://github.com/apache/hive) </sub>
 
+## Spark
+
+- [ ] 基于 hadoop 的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供类SQL查询功能
+- [ ] [官网（英文）](https://spark.apache.org/)
+- [ ] [官网文档（英文）](https://spark.apache.org/docs/latest/)
+- [ ] [翻译文档（中文）](https://spark.apachecn.org/#/)
+- [ ] [Github 地址](https://github.com/apache/spark) <sub> [![Star](https://img.shields.io/github/stars/apache/spark?style=social&label=Star)](https://github.com/apache/spark) </sub>
 
 ## 消息队列服务
 
