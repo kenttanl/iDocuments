@@ -9,16 +9,7 @@
 
 收集开发过程中，常用到的基础系统服务。它们不仅在系统的架构中承担了重要的角色，也是每个开发者都应该深入学习的优秀典范。
 
-| | | |
-| --- | --- | --- |
-| [<img height="60" src="./imgs/hadoop-logo.png" alt="Hadoop"/>](#hadoop) | [<img height="60" src="./imgs/hdfs-logo.png" alt="HDFS"/>](#hdfs) | [<img height="60" src="./imgs/hbase-logo.png" alt="HBase"/>](#hbase) |
-| [<img height="60" src="./imgs/hive-logo.png"/>](#hive) | [<img height="60" src="./imgs/kafka-logo.png" alt="Kafka"/>](#kafka) | [<img height="60" src="./imgs/activemq-logo.png" alt="ActiveMQ"/>](#activemq) | 
-| [<img height="60" src="./imgs/rabbitmq-logo.svg" alt="RabbitMQ"/>](#rabbitmq) | [<img height="60" src="./imgs/zeromq-logo.png" alt="ZeroMQ"/>](#rabbitmq) | [<img height="60" src="./imgs/elasticsearch-logo.png" alt="Elasticsearch"/>](#elasticsearch) |
-| [<img height="60" src="./imgs/kibana-logo.png" alt="Kibana"/>](#kibana) | [<img height="60" src="./imgs/logstash-logo.png" alt="Logstash"/>](#logstash) | [<img height="60" src="./imgs/flink-logo.svg" alt="Flink"/>](#flink) | 
-| [<img height="60" src="./imgs/storm-logo.png" alt="Storm"/>](#storm) | [<img height="60" src="./imgs/etcd-logo.png"/>](#etcd) | [<img height="60" src="./imgs/zookeeper-logo.png" alt="Zookeeper"/>](#zookeeper) |
-| [<img height="60" src="./imgs/redis-logo.png" alt="Redis"/>](#redis) | [<img height="60" src="./imgs/mongodb-logo.png" alt="Mongodb"/>](#mongodb) | [<img height="60" src="./imgs/prometheus-logo.png" alt="Prometheus"/>](#prometheus) |
-| [<img height="60" src="./imgs/grafana-logo.svg" alt="Grafana"/>](#grafana) | [<img height="60" src="./imgs/nginx-logo.png" alt="Nginx"/>](#nginx) | |
-
+[<img height="40" src="./imgs/hadoop-logo.png" alt="Hadoop"/>](#hadoop) [<img height="40" src="./imgs/hdfs-logo.png" alt="HDFS"/>](#hdfs) [<img height="40" src="./imgs/hbase-logo.png" alt="HBase"/>](#hbase) [<img height="40" src="./imgs/hive-logo.png"/>](#hive) [<img height="40" src="./imgs/kafka-logo.png" alt="Kafka"/>](#kafka) [<img height="40" src="./imgs/activemq-logo.png" alt="ActiveMQ"/>](#activemq) [<img height="40" src="./imgs/rabbitmq-logo.svg" alt="RabbitMQ"/>](#rabbitmq) [<img height="40" src="./imgs/zeromq-logo.png" alt="ZeroMQ"/>](#rabbitmq) [<img height="40" src="./imgs/elasticsearch-logo.png" alt="Elasticsearch"/>](#elasticsearch) [<img height="40" src="./imgs/kibana-logo.png" alt="Kibana"/>](#kibana) [<img height="40" src="./imgs/logstash-logo.png" alt="Logstash"/>](#logstash) [<img height="40" src="./imgs/flink-logo.svg" alt="Flink"/>](#flink) [<img height="40" src="./imgs/storm-logo.png" alt="Storm"/>](#storm) [<img height="40" src="./imgs/etcd-logo.png"/>](#etcd) [<img height="40" src="./imgs/zookeeper-logo.png" alt="Zookeeper"/>](#zookeeper) [<img height="40" src="./imgs/redis-logo.png" alt="Redis"/>](#redis) [<img height="40" src="./imgs/mongodb-logo.png" alt="Mongodb"/>](#mongodb) [<img height="40" src="./imgs/prometheus-logo.png" alt="Prometheus"/>](#prometheus) [<img height="40" src="./imgs/grafana-logo.svg" alt="Grafana"/>](#grafana) [<img height="40" src="./imgs/nginx-logo.png" alt="Nginx"/>](#nginx)
 
 ## Hadoop 
 
