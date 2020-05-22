@@ -70,3 +70,22 @@ EXEC master.dbo.xp_instance_regread
 OUTPUT SELECT @TimeZone
 ```
 
+### 查询表字段类型定义
+
+```sql
+SELECT table_catalog AS database_name
+     ,table_schema AS schema_name
+     ,table_name
+     ,column_name
+     ,data_type
+     ,character_maximum_length
+     ,tc.* 
+ FROM information_schema.columns tc
+WHERE EXISTS (
+    SELECT 1 FROM sys.objects obj 
+     WHERE obj.object_id=object_id('my_table')
+       AND obj.name=tc.table_name 
+       AND tc.table_schema=SCHEMA_NAME(obj.schema_id)
+ )
+```
+
