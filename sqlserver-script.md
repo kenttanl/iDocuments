@@ -72,6 +72,8 @@ OUTPUT SELECT @TimeZone
 
 ### 查询表字段类型定义
 
+注：使用 object_id 函数能够避免 table_name 格式化问题
+
 ```sql
 SELECT table_catalog AS database_name
      ,table_schema AS schema_name
