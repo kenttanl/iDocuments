@@ -93,6 +93,8 @@ WHERE EXISTS (
 
 ### 查询 CPU 和内存信息
 
+Outlink: [Monitor CPU and Memory usage for all SQL Server instances using PowerShell](https://www.mssqltips.com/sqlservertip/5724/monitor-cpu-and-memory-usage-for-all-sql-server-instances-using-powershell/)
+
 ```sql
 WITH SQLProcessCPU
 AS(
