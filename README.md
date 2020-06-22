@@ -34,6 +34,8 @@
 [<img height="50" src="./imgs/grafana-logo.svg" alt="Grafana" title="Grafana: 一个开源的度量分析和可视化工具，可以通过将采集的数据查询然后可视化的展示，并及时通知" />](#grafana)
 [<img height="50" src="./imgs/nginx-logo.png" alt="Nginx" title="Nginx: 一个免费的，开源的高性能 HTTP 服务器和反向代理，以及 IMAP/POP3 代理服务器" />](#nginx)
 [<img height="50" src="./imgs/openresty-logo.png" alt="OpenResty" title="OpenResty: 一款基于 NGINX 和 LuaJIT 的 Web 平台" />](#openresty)
+[<img height="50" src="./imgs/apache-httpd-logo.png" alt="Apache httpd" title="Apache httpd: 世界使用排名第一的 Web 服务器软件，它可以运行在几乎所有广泛使用的计算机平台上" />](#apache_httpd)
+[<img height="50" src="./imgs/haproxy-logo.png" alt="HAProxy" title="HAProxy: HAProxy 是一款免费的，可为基于 TCP 和 HTTP 的应用程序提供高可用、负载均衡和代理的非常快速且可靠的解决方案。它特别适合于流量非常高的网站，并为世界上许多访问量最大的网站提供支持" />](#haproxy)
 [<img height="50" src="./imgs/docker-logo.png" alt="Docker" title="Docker: 一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的镜像中，然后发布到任何流行的 Linux 或 Windows 机器上" />](#docker)
 [<img height="50" src="./imgs/kubernetes-logo.png" alt="Kubernetes" title="Kubernetes: 一个可移植的、可扩展的开源平台，用于管理容器化的工作负载和服务，可促进声明式配置和自动化" />](#kubernetes)
 
@@ -240,6 +242,21 @@
 - [ ] [官方文档（英文）](https://openresty.org/en/getting-started.html)
 - [ ] [官方文档（中文）](https://openresty.org/cn/getting-started.html)
 - [ ] [Github 地址](https://github.com/openresty) <sub> [![Star](https://img.shields.io/github/stars/openresty/openresty?style=social&label=Star)](https://github.com/openresty/openresty) </sub> 
+
+## Apache_httpd
+
+- [ ] 项目的目标是提供一个安全，高效且可扩展的服务器，该服务器提供与当前HTTP标准同步的 HTTP 服务
+- [ ] [官网（英文）](https://httpd.apache.org/)
+- [ ] [官方文档（英文）](https://httpd.apache.org/docs/)
+- [ ] [官方文档（中文，v2.4 版本，中英文混合）](https://httpd.apache.org/docs/2.4/zh-cn/)
+- [ ] [Github 地址](https://github.com/apache/httpd) <sub> [![Star](https://img.shields.io/github/stars/apache/httpd?style=social&label=Star)](https://github.com/apache/httpd) </sub> 
+
+## HAProxy
+
+- [ ] HAProxy 是一款免费的，可为基于 TCP 和 HTTP 的应用程序提供高可用、负载均衡和代理的非常快速且可靠的解决方案。它特别适合于流量非常高的网站，并为世界上许多访问量最大的网站提供支持
+- [ ] [官网（英文）](http://www.haproxy.org/)
+- [ ] [官方文档（英文）](http://cbonte.github.io/haproxy-dconv/)
+- [ ] [Github 地址](https://github.com/haproxy/haproxy) <sub> [![Star](https://img.shields.io/github/stars/haproxy/haproxy?style=social&label=Star)](https://github.com/haproxy/haproxy) </sub> 
 
 ## Docker
 
