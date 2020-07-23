@@ -140,3 +140,45 @@ SELECT
 - **Page Life Expectancy:** 数据采样时为PLE
 - **SQLProcessUtilization30, SQLProcessUtilization15, SQLProcessUtilization10 and SQLProcessUtilization5:** 过去 30/15/10/5 分钟的平均 CPU 使用率
 - **Data Sample Timestamp:** 捕获数据时的服务器时间
+
+
+### 开启数据库与表的 CT
+
+```sql
+-- 开启数据库的 CT
+ALTER DATABASE [Database_Name]
+SET CHANGE_TRACKING = ON 
+(CHANGE_RETENTION = 3 DAYS, AUTO_CLEANUP = ON)
+
+-- 开启表的 CT
+ALTER TABLE [dbo].[Table_Name]  
+ENABLE CHANGE_TRACKING  
+WITH (TRACK_COLUMNS_UPDATED = ON)  
+```
+
+### 关闭数据库与表的 CT
+
+```sql
+-- 关闭数据库的 CT
+ALTER DATABASE [Database_Name]
+SET CHANGE_TRACKING = OFF  
+
+-- 关闭表的 CT
+ALTER TABLE [dbo].[Table_Name]  
+DISABLE CHANGE_TRACKING;  
+```
+
+### 查询 CT 表数据
+
+Outlink: [使用更改跟踪 (SQL Server)](https://docs.microsoft.com/zh-cn/sql/relational-databases/track-changes/work-with-change-tracking-sql-server?view=sql-server-ver15)
+
+```sql
+declare @last_synchronization_version bigint;
+
+SELECT  
+    CT.ID, CT.SYS_CHANGE_OPERATION,  
+    CT.SYS_CHANGE_COLUMNS, CT.SYS_CHANGE_CONTEXT  
+FROM  
+    CHANGETABLE(CHANGES [dbo].[Table_Name], @last_synchronization_version) AS CT
+```
+
