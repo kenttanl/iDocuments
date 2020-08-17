@@ -167,7 +167,7 @@
 - [ ] [官方文档（英文 v3.4.0）](https://etcd.io/docs/v3.4.0/)
 - [ ] [翻译文档（中文）](https://doczhcn.gitbook.io/etcd/)
 - [ ] [Github 地址](https://github.com/etcd-io/etcd) <sub> [![Star](https://img.shields.io/github/stars/etcd-io/etcd?style=social&label=Star)](https://github.com/etcd-io/etcd) </sub>
-- [ ] [ETCD 原理演示动画](http://thesecretlivesofdata.com/raft/)
+- [ ] [ETCD 原理演示动画（英文）](http://thesecretlivesofdata.com/raft/)
 
 ## Zookeeper
 
@@ -188,7 +188,7 @@
 - [ ] [官方文档（中文）](http://www.redis.cn/documentation.html)
 - [ ] [Github 地址](https://github.com/antirez/redis) <sub> [![Star](https://img.shields.io/github/stars/antirez/redis?style=social&label=Star)](https://github.com/antirez/redis) </sub>
 - [ ] [在线测试（英文）](https://try.redis.io/)
-- [ ] 命令参考（[英文](https://redis.io/commands) | [中文](http://doc.redisfans.com/)）
+- [ ] 命令参考（[英文](https://redis.io/commands) · [中文](http://doc.redisfans.com/)）
 
 ### MongoDB
 
