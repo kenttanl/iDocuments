@@ -186,7 +186,9 @@
 - [ ] [官网（中文）](http://www.redis.cn)
 - [ ] [官方文档（英文）](https://redis.io/documentation)
 - [ ] [官方文档（中文）](http://www.redis.cn/documentation.html)
-- [ ] [Github 地址](https://github.com/antirez/redis) <sub> [![Star](https://img.shields.io/github/stars/antirez/redis?style=social&label=Star)](https://github.com/antirez/redis) </sub> 
+- [ ] [Github 地址](https://github.com/antirez/redis) <sub> [![Star](https://img.shields.io/github/stars/antirez/redis?style=social&label=Star)](https://github.com/antirez/redis) </sub>
+- [ ] [在线测试（英文）](https://try.redis.io/)
+- [ ] 命令参考（[英文](https://redis.io/commands) | [中文](http://doc.redisfans.com/)）
 
 ### MongoDB
 
