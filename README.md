@@ -41,6 +41,8 @@
 [<img height="50" src="./imgs/tengine-logo.png" alt="Tengine" title="Tengine: 由淘宝网发起的 Web 服务器项目。它在 Nginx 的基础上，针对大访问量网站的需求，添加了很多高级功能和特性。Tengine 的性能和稳定性已经在大型的网站如淘宝网、天猫商城等得到了很好的检验。它的最终目标是打造一个高效、稳定、安全、易用的 Web 平台" />](#tengine)
 [<img height="50" src="./imgs/docker-logo.png" alt="Docker" title="Docker: 一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的镜像中，然后发布到任何流行的 Linux 或 Windows 机器上" />](#docker)
 [<img height="50" src="./imgs/kubernetes-logo.png" alt="Kubernetes" title="Kubernetes: 一个可移植的、可扩展的开源平台，用于管理容器化的工作负载和服务，可促进声明式配置和自动化" />](#kubernetes)
+[<img height="50" src="./imgs/jenkins-logo.png" alt="Jenkins" title="Jenkins: 一个提供友好操作界面的持续集成工具" />](#jenkins)
+[<img height="50" src="./imgs/sonarqube-logo.svg" alt="SonarQube" title="SonarQube: 一个用于代码质量管理的开放平台" />](#sonarqube)
 
 ## Hadoop 
 
@@ -306,3 +308,21 @@
 - [ ] [官方文档（英文）](https://kubernetes.io/docs/home/)
 - [ ] [官方文档（中文）](https://kubernetes.io/zh/docs/home/)
 - [ ] [Github 地址](https://github.com/kubernetes/kubernetes) <sub> [![Star](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&label=Star)](https://github.com/kubernetes/kubernetes) </sub> 
+
+## CI/CD/质量管理
+
+### Jenkins 
+
+- [ ] 一个提供友好操作界面的持续集成工具
+- [ ] [官网（英文）](https://www.jenkins.io/)
+- [ ] [官网（中文）](https://www.jenkins.io/zh/)
+- [ ] [官方文档（英文）](https://www.jenkins.io/doc/)
+- [ ] [官方文档（中文）](https://www.jenkins.io/zh/doc/)
+- [ ] [Github 地址](https://github.com/jenkinsci/jenkins) <sub> [![Star](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social&label=Star)](https://github.com/jenkinsci/jenkins) </sub> 
+
+### SonarQube 
+
+- [ ] 一个用于代码质量管理的开放平台
+- [ ] [官网（英文）](https://www.sonarqube.org/)
+- [ ] [官方文档（英文）](https://docs.sonarqube.org/latest/)
+- [ ] [Github 地址](https://github.com/SonarSource/sonarqube) <sub> [![Star](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&label=Star)](https://github.com/SonarSource/sonarqube) </sub> 
