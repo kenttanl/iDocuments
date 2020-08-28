@@ -186,8 +186,11 @@ DISABLE CHANGE_TRACKING;
 Outlink: [使用更改跟踪 (SQL Server)](https://docs.microsoft.com/zh-cn/sql/relational-databases/track-changes/work-with-change-tracking-sql-server?view=sql-server-ver15)
 
 ```sql
-declare @last_synchronization_version bigint;
+-- 查询当前数据库事务更新的最新版本
+SELECT CHANGE_TRACKING_CURRENT_VERSION();
 
+-- 查询指定表的 CT 数据
+declare @last_synchronization_version bigint;
 SELECT  
     CT.ID, CT.SYS_CHANGE_OPERATION,  
     CT.SYS_CHANGE_COLUMNS, CT.SYS_CHANGE_CONTEXT  
