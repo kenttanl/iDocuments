@@ -14,7 +14,7 @@
 [<img height="50" src="./imgs/hbase-logo.png" alt="HBase" title="HBase: 一个分布式的、面向列的开源数据库" />](#hbase)
 [<img height="50" src="./imgs/hive-logo.png" alt="Hive" title="Hive: 基于 hadoop 的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供类SQL查询功能" />](#hive)
 [<img height="50" src="./imgs/spark-logo.png" alt="Spark" title="Spark: 一个快速的，用于海量数据处理的通用引擎" />](#spark)
-[<img height="50" src="./imgs/kafka-logo.png" alt="Kafka" title="Kafka: 一个分布式流处理平台" />](#kafka)
+[<img height="50" src="./imgs/kafka-logo.png" alt="Kafka" title="Kafka: 一个分布式流处理平台，目标是为处理实时数据提供一个统一、高吞吐、低延迟的平台" />](#kafka)
 [<img height="50" src="./imgs/activemq-logo.png" alt="ActiveMQ" title="ActiveMQ: 一个多协议、基于Java的消息传递服务器" />](#activemq)
 [<img height="50" src="./imgs/rocketmq-logo.png" alt="RocketMQ" title="RocketMQ: 阿里巴巴在 2012 年开源的分布式消息中间件" />](#rocketmq)
 [<img height="50" src="./imgs/rabbitmq-logo.svg" alt="RabbitMQ" title="RabbitMQ: 可以为你的应用提供一个通用的消息发送和接收平台，并且保证消息在传输过程中的安全" />](#rabbitmq)
@@ -90,7 +90,7 @@
 
 ### Kafka 
 
-- [ ] 一个分布式流处理平台
+- [ ] 一个分布式流处理平台，目标是为处理实时数据提供一个统一、高吞吐、低延迟的平台
 - [ ] [官方文档（英文）](http://kafka.apache.org)
 - [ ] [官方文档（中文）](http://kafka.apachecn.org)
 - [ ] [Confluence（英文）](https://cwiki.apache.org/confluence/display/KAFKA/Index)
