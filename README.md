@@ -95,8 +95,7 @@
 - [ ] [官方文档（中文）](http://kafka.apachecn.org)
 - [ ] [Confluence（英文）](https://cwiki.apache.org/confluence/display/KAFKA/Index)
 - [ ] [Github 地址](https://github.com/apache/kafka) <sub> [![Star](https://img.shields.io/github/stars/apache/kafka?style=social&label=Star)](https://github.com/apache/kafka) </sub>
-- [ ] 相关工具：
-    - [Kafka Tool](https://www.kafkatool.com/)：用于管理和使用 Kafka 集群的 GUI 应用程序，可以快速查看 Kafka 集群中的对象以及存储在 Topic 中的消息
+- [ ] [Kafka Tool](https://www.kafkatool.com/)：用于管理和使用 Kafka 集群的 GUI 应用程序，可以快速查看 Kafka 集群中的对象以及存储在 Topic 中的消息
 
 ### ActiveMQ 
 
