@@ -25,7 +25,8 @@
 [<img height="50" src="./imgs/flink-logo.svg" alt="Flink" title="Flink: 一个框架和分布式处理引擎，用于在无边界和有边界数据流上进行有状态的计算" />](#flink)
 [<img height="50" src="./imgs/storm-logo.png" alt="Storm" title="Storm: Twitter 开源的分布式实时大数据处理框架" />](#storm)
 [<img height="50" src="./imgs/etcd-logo.png" alt="ETCD" title="ETCD: 一个分布式键值对存储，设计用来可靠而快速的保存关键数据并提供访问" />](#etcd)
-[<img height="50" src="./imgs/zookeeper-logo.png" alt="Zookeeper" title="Zookeeper: 一个分布式的，开放源码的分布式应用程序协调服务" />](#zookeeper)
+[<img height="50" src="./imgs/zookeeper-logo.png" alt="Zookeeper" title="Zookeeper: 一个分布式的、开放源码的分布式应用程序协调服务" />](#zookeeper)
+[<img height="50" src="./imgs/consul-logo.png" alt="Consul" title="Consul: 一种服务网格解决方案，提供具有服务发现，配置和分段功能的全功能控制平面" />](#consul)
 [<img height="50" src="./imgs/redis-logo.png" alt="Redis" title="Redis: 一个开源的，内存中的数据结构存储系统" />](#redis)
 [<img height="50" src="./imgs/mongodb-logo.png" alt="MongoDB" title="MongoDB: 一个通用的、基于分布式文件存储的数据库" />](#mongodb)
 [<img height="50" src="./imgs/cassandra-logo.png" alt="Cassandra" title="Cassandra: 一个高度可扩展的分区行存储系统" />](#cassandra)
@@ -148,7 +149,9 @@
 - [ ] [官方文档（英文，基于最新版本）](https://www.elastic.co/guide/en/logstash/current/index.html)
 - [ ] [翻译文档（中文，基于版本不详，来源不详）](https://doc.yonyoucloud.com/doc/logstash-best-practice-cn/index.html)
 
-## Flink
+## 流计算
+
+### Flink
 
 - [ ] 一个框架和分布式处理引擎，用于在无边界和有边界数据流上进行有状态的计算
 - [ ] [官网（英文）](https://flink.apache.org)
@@ -157,13 +160,15 @@
 - [ ] [官方文档（中文 v1.9）](https://ci.apache.org/projects/flink/flink-docs-release-1.9/zh/)
 - [ ] [Github 地址](https://github.com/apache/flink) <sub> [![Star](https://img.shields.io/github/stars/apache/flink?style=social&label=Star)](https://github.com/apache/flink) </sub>
 
-## Storm
+### Storm
 
 - [ ] Twitter 开源的分布式实时大数据处理框架
 - [ ] [官方文档（英文）](http://storm.apache.org)
 - [ ] [Github 地址](https://github.com/apache/storm) <sub> ![Star](https://img.shields.io/github/stars/apache/storm?style=social&label=Star) </sub>
 
-## ETCD
+## 服务发现
+
+### ETCD
 
 - [ ] 一个分布式键值对存储，设计用来可靠而快速的保存关键数据并提供访问
 - [ ] [官网（英文）](https://etcd.io)
@@ -172,13 +177,21 @@
 - [ ] [Github 地址](https://github.com/etcd-io/etcd) <sub> [![Star](https://img.shields.io/github/stars/etcd-io/etcd?style=social&label=Star)](https://github.com/etcd-io/etcd) </sub>
 - [ ] [ETCD 原理演示动画（英文）](http://thesecretlivesofdata.com/raft/)
 
-## Zookeeper
+### Zookeeper
 
 - [ ] 一个分布式的，开放源码的分布式应用程序协调服务
 - [ ] [官网（英文）](https://zookeeper.apache.org)
 - [ ] [官方文档（英文 v3.5.6）](https://zookeeper.apache.org/doc/r3.5.6/)
 - [ ] [翻译文档（中文 from w3cschool）](https://www.w3cschool.cn/zookeeper/zookeeper_overview.html)
 - [ ] [Github 地址](https://github.com/apache/zookeeper) <sub> [![Star](https://img.shields.io/github/stars/apache/zookeeper?style=social&label=Star)](https://github.com/apache/zookeeper) </sub>
+
+### Consul
+
+- [ ] 一种服务网格解决方案，提供具有服务发现，配置和分段功能的全功能控制平面
+- [ ] [官网（英文）](https://www.consul.io/)
+- [ ] [官方文档](https://www.consul.io/docs)
+- [ ] [翻译文档（v1.4）](https://kingfree.gitbook.io/consul/)
+- [ ] [Github 地址](https://github.com/hashicorp/consul) <sub> [![Star](https://img.shields.io/github/stars/hashicorp/consul?style=social&label=Star)](https://github.com/hashicorp/consul) </sub>
 
 ## NoSQL
 
