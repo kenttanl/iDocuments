@@ -166,7 +166,7 @@
 - [ ] [官方文档（英文）](http://storm.apache.org)
 - [ ] [Github 地址](https://github.com/apache/storm) <sub> ![Star](https://img.shields.io/github/stars/apache/storm?style=social&label=Star) </sub>
 
-## 服务发现
+## 服务发现与配置
 
 ### ETCD
 
