@@ -180,6 +180,7 @@
 - [ ] [翻译文档（中文）](https://doczhcn.gitbook.io/etcd/)
 - [ ] [Github 地址](https://github.com/etcd-io/etcd) <sub> [![Star](https://img.shields.io/github/stars/etcd-io/etcd?style=social&label=Star)](https://github.com/etcd-io/etcd) </sub>
 - [ ] [ETCD 原理演示动画（英文）](http://thesecretlivesofdata.com/raft/)
+- [ ] Raft 论文：[英文](https://raft.github.io/raft.pdf) · [中文翻译](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
 
 ### Zookeeper
 
