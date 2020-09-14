@@ -33,7 +33,7 @@
 [<img height="50" src="./imgs/memcached-logo.png" alt="Memcached" title="Memcached: 一个高性能的、分布式内存对象缓存系统" />](#memcached)
 [<img height="50" src="./imgs/evcache-logo.png" alt="EVCache" title="EVCache: ​​基于 memcached 和 spymemcached 的缓存解决方案，主要用于 AWS EC2 基础设施来缓存常用数据" />](#evcache)
 [<img height="50" src="./imgs/aerospike-logo.png" alt="Aerospike" title="Aerospike: ​​第一个 NoSQL 数据库，为始终在线的全球分布式业务交易，在大规模和一致性之间找到了平衡" />](#aerospike)
-[<img height="50" src="./imgs/clickhouse-logo.svg" alt="ClickHouse" title="ClickHouse: 一个开源的、面向列的 OLAP 数据库管理系统，可以实时生成数据分析报告" />](#clickHouse)
+[<img height="50" src="./imgs/clickhouse-logo.png" alt="ClickHouse" title="ClickHouse: 一个开源的、面向列的 OLAP 数据库管理系统，可以实时生成数据分析报告" />](#clickHouse)
 [<img height="50" src="./imgs/opentsdb-logo.png" alt="OpenTSDB" title="OpenTSDB: 在不丢失粒度的情况下存储和提供大量时间序列数据" />](#opentsdb)
 [<img height="50" src="./imgs/prometheus-logo.png" alt="Prometheus" title="Prometheus: 一个开源的监控报警系统和时序列数据库（TSDB）" />](#prometheus)
 [<img height="50" src="./imgs/grafana-logo.svg" alt="Grafana" title="Grafana: 一个开源的度量分析和可视化工具，可以通过将采集的数据查询然后可视化的展示，并及时通知" />](#grafana)
