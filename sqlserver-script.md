@@ -9,6 +9,7 @@
 - [开启数据库与表的 CT](#开启数据库与表的-ct)
 - [关闭数据库与表的 CT](#关闭数据库与表的-ct)
 - [查询 CT 表数据](#查询-ct-表数据)
+- [查询连接数](#查询连接数)
 
 
 ### 查看正在执行的 SQL
@@ -198,7 +199,7 @@ FROM
     CHANGETABLE(CHANGES [dbo].[Table_Name], @last_synchronization_version) AS CT
 ```
 
-### 查看连接数
+### 查询连接数
 
 ```sql
 -- 查询最大连接数
