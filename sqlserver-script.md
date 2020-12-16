@@ -198,3 +198,20 @@ FROM
     CHANGETABLE(CHANGES [dbo].[Table_Name], @last_synchronization_version) AS CT
 ```
 
+### 查看连接数
+
+```sql
+-- 查询最大连接数
+SELECT @@MAX_CONNECTIONS
+
+-- 查询每个账号的连接数
+SELECT 
+    name AS Login_Name, 
+    COUNT(*) AS Num_Conns
+FROM (
+    SELECT SD.name, SP.* 
+      FROM [Master].[dbo].[SYSPROCESSES] SP
+      INNER JOIN [Master].[dbo].[SYSDATABASES] SD
+      ON SP.dbid=SD.dbid) T
+GROUP BY name
+```
