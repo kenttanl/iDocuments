@@ -27,6 +27,7 @@
 [<img height="50" src="./imgs/etcd-logo.png" alt="ETCD" title="ETCD: 一个分布式键值对存储，设计用来可靠而快速的保存关键数据并提供访问" />](#etcd)
 [<img height="50" src="./imgs/zookeeper-logo.png" alt="Zookeeper" title="Zookeeper: 一个分布式的、开放源码的分布式应用程序协调服务" />](#zookeeper)
 [<img height="50" src="./imgs/consul-logo.png" alt="Consul" title="Consul: 一种服务网格解决方案，提供具有服务发现，配置和分段功能的全功能控制平面" />](#consul)
+[<img height="50" src="./imgs/nacos-logo.png" alt="Nacos" title="Nacos: 致力于帮助您发现、配置和管理微服务；帮助您更敏捷和容易地构建、交付和管理微服务平台" />](#nacos)
 [<img height="50" src="./imgs/redis-logo.png" alt="Redis" title="Redis: 一个开源的，内存中的数据结构存储系统" />](#redis)
 [<img height="50" src="./imgs/mongodb-logo.png" alt="MongoDB" title="MongoDB: 一个通用的、基于分布式文件存储的数据库" />](#mongodb)
 [<img height="50" src="./imgs/cassandra-logo.png" alt="Cassandra" title="Cassandra: 一个高度可扩展的分区行存储系统" />](#cassandra)
@@ -48,6 +49,7 @@
 [<img height="50" src="./imgs/kubernetes-logo.png" alt="Kubernetes" title="Kubernetes: 一个可移植的、可扩展的开源平台，用于管理容器化的工作负载和服务，可促进声明式配置和自动化" />](#kubernetes)
 [<img height="50" src="./imgs/jenkins-logo.png" alt="Jenkins" title="Jenkins: 一个提供友好操作界面的持续集成工具" />](#jenkins)
 [<img height="50" src="./imgs/sonarqube-logo.svg" alt="SonarQube" title="SonarQube: 一个用于代码质量管理的开放平台" />](#sonarqube)
+[<img height="50" src="./imgs/spinnaker-logo.svg" alt="Spinnaker " title="Spinnaker : 一个开源的持续交付平台，用于快速、可靠地发布软件更改" />](#spinnaker)
 
 ## Hadoop 
 
@@ -197,6 +199,15 @@
 - [ ] [官方文档](https://www.consul.io/docs)
 - [ ] [翻译文档（v1.4）](https://kingfree.gitbook.io/consul/)
 - [ ] [Github 地址](https://github.com/hashicorp/consul) <sub> [![Star](https://img.shields.io/github/stars/hashicorp/consul?style=social&label=Star)](https://github.com/hashicorp/consul) </sub>
+
+### Nacos
+
+- [ ] 致力于帮助您发现、配置和管理微服务；帮助您更敏捷和容易地构建、交付和管理微服务平台
+- [ ] [官网（英文）](https://nacos.io/en-us/index.html)
+- [ ] [官网（中文）](https://nacos.io/zh-cn/index.html)
+- [ ] [官方文档（英文）](https://nacos.io/en-us/docs/what-is-nacos.html)
+- [ ] [官方文档（中文）](https://nacos.io/zh-cn/docs/what-is-nacos.html)
+- [ ] [Github 地址](https://github.com/alibaba/nacos) <sub> [![Star](https://img.shields.io/github/stars/alibaba/nacos?style=social&label=Star)](https://github.com/alibaba/nacos) </sub>
 
 ## NoSQL/RDBMS
 
@@ -380,3 +391,10 @@
 - [ ] [官网（英文）](https://www.sonarqube.org/)
 - [ ] [官方文档（英文）](https://docs.sonarqube.org/latest/)
 - [ ] [Github 地址](https://github.com/SonarSource/sonarqube) <sub> [![Star](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&label=Star)](https://github.com/SonarSource/sonarqube) </sub> 
+
+### Spinnaker 
+
+- [ ] 一个开源的持续交付平台，用于快速、可靠地发布软件更改
+- [ ] [官网（英文）](https://spinnaker.io/)
+- [ ] [官方文档（英文）](https://spinnaker.io/guides/)
+- [ ] [Github 地址](https://github.com/spinnaker/spinnaker) <sub> [![Star](https://img.shields.io/github/stars/spinnaker/spinnaker?style=social&label=Star)](https://github.com/spinnaker/spinnaker) </sub> 
