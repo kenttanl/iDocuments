@@ -50,6 +50,7 @@
 [<img height="50" src="./imgs/jenkins-logo.png" alt="Jenkins" title="Jenkins: 一个提供友好操作界面的持续集成工具" />](#jenkins)
 [<img height="50" src="./imgs/sonarqube-logo.svg" alt="SonarQube" title="SonarQube: 一个用于代码质量管理的开放平台" />](#sonarqube)
 [<img height="50" src="./imgs/spinnaker-logo.svg" alt="Spinnaker " title="Spinnaker : 一个开源的持续交付平台，用于快速、可靠地发布软件更改" />](#spinnaker)
+[<img height="50" src="./imgs/serenitybdd-logo.svg" alt="Serenity BDD " title="Serenity BDD : 一个测试自动化库，旨在简化编写自动验收测试的过程，并使其更加有趣" />](#serenitybdd)
 
 ## Hadoop 
 
@@ -398,3 +399,10 @@
 - [ ] [官网（英文）](https://spinnaker.io/)
 - [ ] [官方文档（英文）](https://spinnaker.io/guides/)
 - [ ] [Github 地址](https://github.com/spinnaker/spinnaker) <sub> [![Star](https://img.shields.io/github/stars/spinnaker/spinnaker?style=social&label=Star)](https://github.com/spinnaker/spinnaker) </sub> 
+
+### SerenityBDD 
+
+- [ ] 一个测试自动化库，旨在简化编写自动验收测试的过程，并使其更加有趣（UI 测试）
+- [ ] [官网（英文）](http://serenity-bdd.info/)
+- [ ] [官方文档（英文）](http://serenity-bdd.info/#/documentation)
+- [ ] [Github 地址](https://github.com/serenity-bdd) <sub> [![Star](https://img.shields.io/github/stars/serenity-bdd/serenity-core?style=social&label=Star)](https://github.com/serenity-bdd/serenity-core) </sub> 
