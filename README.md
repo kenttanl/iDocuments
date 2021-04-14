@@ -50,7 +50,7 @@
 [<img height="50" src="./imgs/jenkins-logo.png" alt="Jenkins" title="Jenkins: 一个提供友好操作界面的持续集成工具" />](#jenkins)
 [<img height="50" src="./imgs/sonarqube-logo.svg" alt="SonarQube" title="SonarQube: 一个用于代码质量管理的开放平台" />](#sonarqube)
 [<img height="50" src="./imgs/spinnaker-logo.svg" alt="Spinnaker " title="Spinnaker : 一个开源的持续交付平台，用于快速、可靠地发布软件更改" />](#spinnaker)
-[<img height="50" src="./imgs/serenitybdd-logo.svg" alt="Serenity BDD " title="Serenity BDD : 一个测试自动化库，旨在简化编写自动验收测试的过程，并使其更加有趣" />](#serenitybdd)
+[<img height="50" src="./imgs/serenitybdd-logo.png" alt="Serenity BDD" title="Serenity BDD : 一个测试自动化库，旨在简化编写自动验收测试的过程，并使其更加有趣" />](#serenitybdd)
 
 ## Hadoop 
 
