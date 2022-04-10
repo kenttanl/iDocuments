@@ -22,6 +22,7 @@
 [<img height="50" src="./imgs/elasticsearch-logo.png" alt="Elasticsearch" title="Elasticsearch: 基于Apache Lucene 的开源搜索引擎，它可以近乎实时的存储、检索数据" />](#elasticsearch)
 [<img height="50" src="./imgs/kibana-logo.png" alt="Kibana" title="Kibana:  一个开源的分析与可视化平台，用于和 Elasticsearch 一起使用" />](#kibana)
 [<img height="50" src="./imgs/logstash-logo.png" alt="Logstash" title="Logstash: 一个开源的数据收集引擎，具有实时管道功能" />](#logstash)
+[<img height="50" src="./imgs/filebeat-logo.jpg" alt="Filebeat" title="Filebeat: 轻量型日志采集器（基于 Go 语言开发）" />](#filebeat)
 [<img height="50" src="./imgs/flink-logo.svg" alt="Flink" title="Flink: 一个框架和分布式处理引擎，用于在无边界和有边界数据流上进行有状态的计算" />](#flink)
 [<img height="50" src="./imgs/storm-logo.png" alt="Storm" title="Storm: Twitter 开源的分布式实时大数据处理框架" />](#storm)
 [<img height="50" src="./imgs/etcd-logo.png" alt="ETCD" title="ETCD: 一个分布式键值对存储，设计用来可靠而快速的保存关键数据并提供访问" />](#etcd)
@@ -155,6 +156,13 @@
 - [ ] [官网（中文）](https://www.elastic.co/cn/products/logstash)
 - [ ] [官方文档（英文，基于最新版本）](https://www.elastic.co/guide/en/logstash/current/index.html)
 - [ ] [翻译文档（中文，基于版本不详，来源不详）](https://doc.yonyoucloud.com/doc/logstash-best-practice-cn/index.html)
+
+### Filebeat
+
+- [ ] 轻量型日志采集器（基于 Go 语言开发）
+- [ ] [官网（中文）](https://www.elastic.co/cn/beats/filebeat)
+- [ ] [官方文档（英文，基于最新版本）](https://www.elastic.co/guide/en/beats/filebeat/current/index.html)
+- [ ] [翻译文档（中文，基于版本不详，来源不详）](https://elkguide.elasticsearch.cn/beats/file.html)
 
 ## 流计算
 
