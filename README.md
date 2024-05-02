@@ -55,9 +55,9 @@
 
 ### 论文
 
-:orange_book: [GFS 论文中文版](http://blog.bizcloudsoft.com/wp-content/uploads/Google-File-System%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
-:orange_book: [BigTable 论文中文版](http://blog.bizcloudsoft.com/wp-content/uploads/Google-Bigtable%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
-:orange_book: [MapReduce 论文中文版](http://blog.bizcloudsoft.com/wp-content/uploads/Google-MapReduce%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
+:orange_book: [GFS 论文中文版](./docs/Google-File-System中文版_1.0.pdf)，[外网链接](http://blog.bizcloudsoft.com/wp-content/uploads/Google-File-System%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
+:orange_book: [BigTable 论文中文版](./docs/Google-Bigtable中文版_1.0.pdf)，[外网链接](http://blog.bizcloudsoft.com/wp-content/uploads/Google-Bigtable%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
+:orange_book: [MapReduce 论文中文版](./docs/Google-MapReduce中文版_1.0.pdf)，[外网链接](http://blog.bizcloudsoft.com/wp-content/uploads/Google-MapReduce%E4%B8%AD%E6%96%87%E7%89%88_1.0.pdf)  
 
 ### HDFS 
 
