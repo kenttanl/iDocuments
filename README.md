@@ -1,6 +1,6 @@
 ### 分类导航
 
-[Hadoop](#hadoop)、[消息队列服务](#消息队列服务)、[ELK](#elk)、[流计算](#流计算)、[服务发现与配置](#服务发现与配置)、[NoSQL/RDBMS](#nosqlrdbms)、[监控与显示](#监控与显示)、[Web 服务器/代理](#web-服务器--代理)、[容器](#容器)、[CI/CD/质量管理](#cicd质量管理)
+[Hadoop](#hadoop)、[消息队列服务](#消息队列服务)、[ELK](#elk)、[流计算](#流计算)、[服务发现与配置](#服务发现与配置)、[NoSQL/RDBMS](#nosqlrdbms)、[监控与显示](#监控与显示)、[Web 服务器/代理](#web-服务器--代理)、[容器](#容器)、[CI/CD/质量管理](#cicd质量管理)、[基础原理可视化](#基础原理可视化)
 
 # 基础系统服务
 
@@ -421,3 +421,9 @@
 - [ ] [官网（英文）](http://serenity-bdd.info/)
 - [ ] [官方文档（英文）](http://serenity-bdd.info/#/documentation)
 - [ ] [Github 地址](https://github.com/serenity-bdd) <sub> [![Star](https://img.shields.io/github/stars/serenity-bdd/serenity-core?style=social&label=Star)](https://github.com/serenity-bdd/serenity-core) </sub> 
+
+## 基础原理可视化
+
+- [B+Trees](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html)
+- [B-Trees](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
+- [Raft（主节点的选举过程动画）](https://raft.github.io/)
