@@ -27,7 +27,7 @@
 [<img height="50" src="./imgs/etcd-logo.png" alt="ETCD" title="ETCD: 一个分布式键值对存储，设计用来可靠而快速的保存关键数据并提供访问" />](#etcd)
 [<img height="50" src="./imgs/zookeeper-logo.png" alt="Zookeeper" title="Zookeeper: 一个分布式的、开放源码的分布式应用程序协调服务" />](#zookeeper)
 [<img height="50" src="./imgs/consul-logo.png" alt="Consul" title="Consul: 一种服务网格解决方案，提供具有服务发现，配置和分段功能的全功能控制平面" />](#consul)
-[<img height="40" src="./imgs/nacos-logo.png" alt="Nacos" title="Nacos: 致力于帮助您发现、配置和管理微服务；帮助您更敏捷和容易地构建、交付和管理微服务平台" />](#nacos)
+[<img height="40" width="170" src="./imgs/nacos-logo.png" alt="Nacos" title="Nacos: 致力于帮助您发现、配置和管理微服务；帮助您更敏捷和容易地构建、交付和管理微服务平台" />](#nacos)
 [<img height="50" src="./imgs/redis-logo.png" alt="Redis" title="Redis: 一个开源的，内存中的数据结构存储系统" />](#redis)
 [<img height="50" src="./imgs/mongodb-logo.png" alt="MongoDB" title="MongoDB: 一个通用的、基于分布式文件存储的数据库" />](#mongodb)
 [<img height="50" src="./imgs/cassandra-logo.png" alt="Cassandra" title="Cassandra: 一个高度可扩展的分区行存储系统" />](#cassandra)
