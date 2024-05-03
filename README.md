@@ -10,6 +10,8 @@
 [<img height="50" src="./imgs/hdfs-logo.png" alt="HDFS" title="HDFS: 适合运行在通用硬件上的分布式文件系统" />](#hdfs)
 [<img height="50" src="./imgs/hbase-logo.png" alt="HBase" title="HBase: 一个分布式的、面向列的开源数据库" />](#hbase)
 [<img height="50" src="./imgs/hive-logo.png" alt="Hive" title="Hive: 基于 hadoop 的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供类SQL查询功能" />](#hive)
+[<img height="50" src="./imgs/kylin-logo.png" alt="Kylin" title="Kylin: 一个开源的、分布式的分析型数据仓库，提供 Hadoop 之上的 SQL 查询接口及多维分析（OLAP）能力以支持超大规模数据" />](#kylin)
+[<img height="50" src="./imgs/parquet-logo.png" alt="Parquet" title="Parquet: 一种高效的列式存储格式，适用于 Hadoop 生态系统中的任何项目，被广泛应用于数据分析、数据湖、机器学习、数据仓库等领域" />](#parquet)
 [<img height="50" src="./imgs/spark-logo.png" alt="Spark" title="Spark: 一个快速的，用于海量数据处理的通用引擎" />](#spark)
 [<img height="50" src="./imgs/kafka-logo.png" alt="Kafka" title="Kafka: 一个分布式流处理平台，目标是为处理实时数据提供一个统一、高吞吐、低延迟的平台" />](#kafka)
 [<img height="50" src="./imgs/activemq-logo.png" alt="ActiveMQ" title="ActiveMQ: 一个多协议、基于Java的消息传递服务器" />](#activemq)
@@ -85,6 +87,22 @@
 - [ ] 基于 hadoop 的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供类SQL查询功能
 - [ ] [官网文档（英文）](http://hive.apache.org)
 - [ ] [Github 地址](https://github.com/apache/hive) <sub> [![Star](https://img.shields.io/github/stars/apache/hive?style=social&label=Star)](https://github.com/apache/hive) </sub>
+
+### Kylin
+
+- [ ] 一个开源的、分布式的分析型数据仓库，提供 Hadoop 之上的 SQL 查询接口及多维分析（OLAP）能力以支持超大规模数据
+- [ ] [官网（英文）](https://kylin.apache.org/)
+- [ ] [官网（中文）](https://kylin.apache.org/cn/)
+- [ ] [官网文档（英文）](https://kylin.apache.org/docs/)
+- [ ] [官网文档（中文）](https://kylin.apache.org/cn/docs/)
+- [ ] [Github 地址](https://github.com/apache/kylin) <sub> [![Star](https://img.shields.io/github/stars/apache/kylin?style=social&label=Star)](https://github.com/apache/kylin) </sub>
+
+### Parquet
+
+- [ ] 一种高效的列式存储格式，适用于 Hadoop 生态系统中的任何项目，被广泛应用于数据分析、数据湖、机器学习、数据仓库等领域
+- [ ] [官网（英文）](https://parquet.apache.org/)
+- [ ] [官网文档（英文）](https://parquet.apache.org/docs/)
+- [ ] [Github 地址](https://github.com/apache/parquet-mr/) <sub> [![Star](https://img.shields.io/github/stars/apache/parquet-mr?style=social&label=Star)](https://github.com/apache/parquet-mr/) </sub>
 
 ## Spark
 
