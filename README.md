@@ -10,6 +10,8 @@
 [<img height="50" src="./imgs/hdfs-logo.png" alt="HDFS" title="HDFS: 适合运行在通用硬件上的分布式文件系统" />](#hdfs)
 [<img height="50" src="./imgs/hbase-logo.png" alt="HBase" title="HBase: 一个分布式的、面向列的开源数据库" />](#hbase)
 [<img height="50" src="./imgs/hive-logo.png" alt="Hive" title="Hive: 基于 hadoop 的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供类SQL查询功能" />](#hive)
+[<img height="50" src="./imgs/kylin-logo.png" alt="Kylin" title="Kylin: 一个开源的、分布式的分析型数据仓库，提供 Hadoop 之上的 SQL 查询接口及多维分析（OLAP）能力以支持超大规模数据" />](#kylin)
+[<img height="40" width="140" src="./imgs/parquet-logo.png" alt="Parquet" title="Parquet: 一种高效的列式存储格式，适用于 Hadoop 生态系统中的任何项目，被广泛应用于数据分析、数据湖、机器学习、数据仓库等领域" />](#parquet)
 [<img height="50" src="./imgs/spark-logo.png" alt="Spark" title="Spark: 一个快速的，用于海量数据处理的通用引擎" />](#spark)
 [<img height="50" src="./imgs/kafka-logo.png" alt="Kafka" title="Kafka: 一个分布式流处理平台，目标是为处理实时数据提供一个统一、高吞吐、低延迟的平台" />](#kafka)
 [<img height="50" src="./imgs/activemq-logo.png" alt="ActiveMQ" title="ActiveMQ: 一个多协议、基于Java的消息传递服务器" />](#activemq)
@@ -25,7 +27,7 @@
 [<img height="50" src="./imgs/etcd-logo.png" alt="ETCD" title="ETCD: 一个分布式键值对存储，设计用来可靠而快速的保存关键数据并提供访问" />](#etcd)
 [<img height="50" src="./imgs/zookeeper-logo.png" alt="Zookeeper" title="Zookeeper: 一个分布式的、开放源码的分布式应用程序协调服务" />](#zookeeper)
 [<img height="50" src="./imgs/consul-logo.png" alt="Consul" title="Consul: 一种服务网格解决方案，提供具有服务发现，配置和分段功能的全功能控制平面" />](#consul)
-[<img height="40" src="./imgs/nacos-logo.png" alt="Nacos" title="Nacos: 致力于帮助您发现、配置和管理微服务；帮助您更敏捷和容易地构建、交付和管理微服务平台" />](#nacos)
+[<img height="40" width="170" src="./imgs/nacos-logo.png" alt="Nacos" title="Nacos: 致力于帮助您发现、配置和管理微服务；帮助您更敏捷和容易地构建、交付和管理微服务平台" />](#nacos)
 [<img height="50" src="./imgs/redis-logo.png" alt="Redis" title="Redis: 一个开源的，内存中的数据结构存储系统" />](#redis)
 [<img height="50" src="./imgs/mongodb-logo.png" alt="MongoDB" title="MongoDB: 一个通用的、基于分布式文件存储的数据库" />](#mongodb)
 [<img height="50" src="./imgs/cassandra-logo.png" alt="Cassandra" title="Cassandra: 一个高度可扩展的分区行存储系统" />](#cassandra)
@@ -85,6 +87,22 @@
 - [ ] 基于 hadoop 的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供类SQL查询功能
 - [ ] [官网文档（英文）](http://hive.apache.org)
 - [ ] [Github 地址](https://github.com/apache/hive) <sub> [![Star](https://img.shields.io/github/stars/apache/hive?style=social&label=Star)](https://github.com/apache/hive) </sub>
+
+### Kylin
+
+- [ ] 一个开源的、分布式的分析型数据仓库，提供 Hadoop 之上的 SQL 查询接口及多维分析（OLAP）能力以支持超大规模数据
+- [ ] [官网（英文）](https://kylin.apache.org/)
+- [ ] [官网（中文）](https://kylin.apache.org/cn/)
+- [ ] [官网文档（英文）](https://kylin.apache.org/docs/)
+- [ ] [官网文档（中文）](https://kylin.apache.org/cn/docs/)
+- [ ] [Github 地址](https://github.com/apache/kylin) <sub> [![Star](https://img.shields.io/github/stars/apache/kylin?style=social&label=Star)](https://github.com/apache/kylin) </sub>
+
+### Parquet
+
+- [ ] 一种高效的列式存储格式，适用于 Hadoop 生态系统中的任何项目，被广泛应用于数据分析、数据湖、机器学习、数据仓库等领域
+- [ ] [官网（英文）](https://parquet.apache.org/)
+- [ ] [官网文档（英文）](https://parquet.apache.org/docs/)
+- [ ] [Github 地址](https://github.com/apache/parquet-mr/) <sub> [![Star](https://img.shields.io/github/stars/apache/parquet-mr?style=social&label=Star)](https://github.com/apache/parquet-mr/) </sub>
 
 ## Spark
 
