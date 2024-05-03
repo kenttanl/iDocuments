@@ -34,6 +34,7 @@
 [<img height="50" src="./imgs/aerospike-logo.png" alt="Aerospike" title="Aerospike: ​​第一个 NoSQL 数据库，为始终在线的全球分布式业务交易，在大规模和一致性之间找到了平衡" />](#aerospike)
 [<img height="50" src="./imgs/clickhouse-logo.png" alt="ClickHouse" title="ClickHouse: 一个开源的、面向列的 OLAP 数据库管理系统，可以实时生成数据分析报告" />](#clickHouse)
 [<img height="50" src="./imgs/opentsdb-logo.png" alt="OpenTSDB" title="OpenTSDB: 在不丢失粒度的情况下存储和提供大量时间序列数据" />](#opentsdb)
+[<img height="50" src="./imgs/druid-logo.png" alt="ApacheDruid" title="ApacheDruid: ​一个高性能的实时分析数据库，可在大规模的负载下对流式传输和批处理数据提供亚秒级查询" />](#apachedruid)
 [<img height="50" src="./imgs/prometheus-logo.png" alt="Prometheus" title="Prometheus: 一个开源的监控报警系统和时序列数据库（TSDB）" />](#prometheus)
 [<img height="50" src="./imgs/grafana-logo.svg" alt="Grafana" title="Grafana: 一个开源的度量分析和可视化工具，可以通过将采集的数据查询然后可视化的展示，并及时通知" />](#grafana)
 [<img height="50" src="./imgs/nginx-logo.png" alt="Nginx" title="Nginx: 一个免费的，开源的高性能 HTTP 服务器和反向代理，以及 IMAP/POP3 代理服务器" />](#nginx)
@@ -285,6 +286,14 @@
 - [ ] [官方文档（英文）](http://opentsdb.net/docs/build/html/index.html)
 - [ ] [翻译文档（中文 for v2.3）](https://www.docs4dev.com/docs/zh/opentsdb/2.3/reference/new.html)
 - [ ] [Github 地址](https://github.com/OpenTSDB/opentsdb) <sub> [![Star](https://img.shields.io/github/stars/OpenTSDB/opentsdb?style=social&label=Star)](https://github.com/OpenTSDB/opentsdb) </sub> 
+
+### ApacheDruid
+
+- [ ] ​一个高性能的实时分析数据库，可在大规模的负载下对流式传输和批处理数据提供亚秒级查询
+- [ ] [官网（英文）](https://druid.apache.org/)
+- [ ] [官方文档（英文）](https://druid.apache.org/docs/latest/design/)
+- [ ] [翻译文档（中文）](http://www.apache-druid.cn/)
+- [ ] [Github 地址](https://github.com/apache/druid) <sub> [![Star](https://img.shields.io/github/stars/apache/druid?style=social&label=Star)](https://github.com/apache/druid) </sub> 
 
 ## 监控与显示
 
