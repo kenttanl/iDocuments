@@ -1,0 +1,28 @@
+cd imgs/
+
+curl -sL -o iceberg-logo.png       "https://avatars.githubusercontent.com/u/67701964?s=200&v=4"
+curl -sL -o paimon-logo.png        "https://avatars.githubusercontent.com/u/96014066?s=200&v=4"
+curl -sL -o doris-logo.png         "https://avatars.githubusercontent.com/u/90127501?s=200&v=4"
+curl -sL -o pulsar-logo.svg        "https://pulsar.apache.org/img/pulsar.svg"
+curl -sL -o nats-logo.svg          "https://raw.githubusercontent.com/cncf/artwork/master/projects/nats/horizontal/color/nats-horizontal-color.svg"
+curl -sL -o loki-logo.png          "https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png"
+curl -sL -o apollo-logo.png        "https://avatars.githubusercontent.com/u/78388884?s=200&v=4"
+curl -sL -o tidb-logo.png          "https://avatars.githubusercontent.com/u/5057638?s=200&v=4"
+curl -sL -o neo4j-logo.png         "https://avatars.githubusercontent.com/u/201120?s=200&v=4"
+curl -sL -o skywalking-logo.svg    "https://skywalking.apache.org/images/logo.svg"
+curl -sL -o jaeger-logo.png        "https://www.jaegertracing.io/img/jaeger-logo.png"
+curl -sL -o opentelemetry-logo.svg "https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg"
+curl -sL -o helm-logo.svg          "https://helm.sh/img/helm.svg"
+curl -sL -o istio-logo.png         "https://istio.io/img/logo.png"
+curl -sL -o harbor-logo.png        "https://raw.githubusercontent.com/cncf/artwork/master/projects/harbor/horizontal/color/harbor-horizontal-color.png"
+curl -sL -o argocd-logo.png        "https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/horizontal/color/argo-horizontal-color.png"
+curl -sL -o minio-logo.png         "https://avatars.githubusercontent.com/u/695951?s=200&v=4"
+curl -sL -o apisix-logo.png        "https://avatars.githubusercontent.com/u/51232136?s=200&v=4"
+curl -sL -o kong-logo.png          "https://avatars.githubusercontent.com/u/962416?s=200&v=4"
+curl -sL -o traefik-logo.png       "https://raw.githubusercontent.com/traefik/traefik/v2.10/docs/content/assets/img/traefik.logo.png"
+curl -sL -o keycloak-logo.svg      "https://www.keycloak.org/resources/images/logo.svg"
+curl -sL -o xxl-job-logo.png       "https://avatars.githubusercontent.com/u/9051736?s=200&v=4"
+curl -sL -o dolphinscheduler-logo.png "https://avatars.githubusercontent.com/u/60408772?s=200&v=4"
+curl -sL -o vault-logo.png         "https://avatars.githubusercontent.com/u/761456?s=200&v=4"
+
+cd ..
