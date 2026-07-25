@@ -73,7 +73,7 @@
 [<img height="50" src="./imgs/apisix-logo.svg" alt="Apache APISIX" title="Apache APISIX: 云原生高性能 API 网关，支持动态路由、插件热加载与 gRPC/WebSocket" />](#apache-apisix)
 [<img height="50" src="./imgs/kong-logo.svg" alt="Kong" title="Kong: 云原生 API 网关与服务连接平台，插件生态丰富，支持 Kubernetes Ingress" />](#kong)
 [<img height="50" src="./imgs/traefik-logo.png" alt="Traefik" title="Traefik: 云原生应用代理，支持自动服务发现与动态配置，零重启热更新" />](#traefik)
-[<img height="50" src="./imgs/xxl-job-logo.png" alt="XXL-JOB" title="XXL-JOB: 轻量级分布式任务调度平台，开箱即用，国内使用广泛" />](#xxl-job)
+[<img height="50" src="./imgs/xxl-job-logo.jpg" alt="XXL-JOB" title="XXL-JOB: 轻量级分布式任务调度平台，开箱即用，国内使用广泛" />](#xxl-job)
 [<img height="50" src="./imgs/dolphinscheduler-logo.png" alt="Apache DolphinScheduler" title="Apache DolphinScheduler: 云原生分布式可视化工作流调度平台，支持 DAG 依赖编排" />](#apache-dolphinscheduler)
 [<img height="50" src="./imgs/keycloak-logo.svg" alt="Keycloak" title="Keycloak: 开源身份认证与访问管理系统，支持 SSO、OAuth2、OIDC 和 SAML" />](#keycloak)
 [<img height="50" src="./imgs/vault-logo.svg" alt="HashiCorp Vault" title="HashiCorp Vault: 基于身份的密钥与敏感数据安全管理工具，支持动态凭证与加密即服务" />](#hashicorp-vault)
