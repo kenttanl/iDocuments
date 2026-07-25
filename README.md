@@ -14,7 +14,7 @@
 [<img height="40" width="140" src="./imgs/parquet-logo.png" alt="Parquet" title="Parquet: 一种高效的列式存储格式，适用于 Hadoop 生态系统中的任何项目，被广泛应用于数据分析、数据湖、机器学习、数据仓库等领域" />](#parquet)
 [<img height="50" src="./imgs/spark-logo.png" alt="Spark" title="Spark: 一个快速的，用于海量数据处理的通用引擎" />](#spark)
 [<img height="50" src="./imgs/iceberg-logo.svg" alt="Apache Iceberg" title="Apache Iceberg: 专为超大规模分析数据集设计的开放表格式，支持 ACID 事务和 Schema 演化" />](#apache-iceberg)
-[<img height="50" src="./imgs/paimon-logo.svg" alt="Apache Paimon" title="Apache Paimon: 支持实时湖仓一体架构的流式数据湖存储格式，由 Flink 社区孵化" />](#apache-paimon)
+[<img height="50" src="./imgs/apache-paimon-logo.png" alt="Apache Paimon" title="Apache Paimon: 支持实时湖仓一体架构的流式数据湖存储格式，由 Flink 社区孵化" />](#apache-paimon)
 [<img height="50" src="./imgs/doris-logo.svg" alt="Apache Doris" title="Apache Doris: 高性能实时 MPP 分析型数据库，兼容 MySQL 协议，支持秒级 Ad-hoc 可以查询" />](#apache-doris)
 [<img height="50" src="./imgs/kafka-logo.png" alt="Kafka" title="Kafka: 一个分布式流处理平台，目标是为处理实时数据提供一个统一、高吞吐、低延迟的平台" />](#kafka)
 [<img height="50" src="./imgs/activemq-logo.png" alt="ActiveMQ" title="ActiveMQ: 一个多协议、基于Java的消息传递服务器" />](#activemq)
